@@ -1,19 +1,19 @@
 # discussions
-Issue Tracker for USTC LUG
+Issue Tracker for the services provided by USTC LUG
 
-# Usage
+## Usage
 
-You can open an issue here if you want to request a feature or find a bug.
+You can open an issue here if you want to request a feature or report a bug.
 
-# Notice
+## Notice
 
-Here is the place to discuss the products provided by USTC LUG.
+Here is the place to discuss the services provided by USTC LUG.
 
 Topic is only limited to **Features** and **Bugs**.
 
-Please **don't** open an issue if you don't know usages of the products or you need other helps. You shoult ask these questions in our [mailing list](http://groups.google.com/group/ustc_lug).
+Please do **NOT** open an issue if you don't know usages of the services or you need other helps. You should ask these questions in our [mailing list](http://groups.google.com/group/ustc_lug).
 
-Products can be referred to
+Servers refer to:
 
 * [Mirrors](https://mirrors.ustc.edu.cn)
 * [PXE](http://pxe.ustc.edu.cn)

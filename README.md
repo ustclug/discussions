@@ -11,7 +11,7 @@ Here is the place to discuss the products provided by USTC LUG.
 
 Topic is only limited to **Features** and **Bugs**.
 
-Please **don't** open an issue if you don't know usages of the products or you need other helps. You shoult ask these questions in our [maling list](http://groups.google.com/group/ustc_lug).
+Please **don't** open an issue if you don't know usages of the products or you need other helps. You shoult ask these questions in our [mailing list](http://groups.google.com/group/ustc_lug).
 
 Products can be referred to
 
@@ -20,3 +20,6 @@ Products can be referred to
 * [Gitlab](https://git.ustclug.org)
 * [Freeshell](https://freeshell.ustc.edu.cn)
 * [Blog](https://blog.ustc.edu.cn)
+
+* * *
+LUG@USTC

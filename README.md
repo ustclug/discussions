@@ -22,7 +22,6 @@ Services refer to:
 * [Light](https://light.ustclug.org)
 * [VPN](https://getvpn.ustclug.org)
 * [FTP](https://ftp.lug.ustc.edu.cn)
-* [BBS](https://bbs.ustc.edu.cn)
 * [LUGI VPN](board.ustclug.org) (internal)
 * [LDAP](https://ldap.lug.ustc.edu.cn) (internal)
 * [Server Status](https://status.ustclug.org) (internal)

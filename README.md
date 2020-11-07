@@ -26,6 +26,7 @@ Services refer to:
 * [LDAP](https://ldap.lug.ustc.edu.cn) (internal)
 * [Server Status](https://status.ustclug.org) (internal)
 
+Also, when reporting **security**-related bugs, please send email to `lug AT ustc.edu.cn`, and do **NOT** open the issue in public!
 
 ***
 

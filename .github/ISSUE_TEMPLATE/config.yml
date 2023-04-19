@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: USTCLUG Mirror Request
+    url: https://github.com/ustclug/mirrorrequest/issues/new
+    about: 新增镜像请求 / New mirror request
+  - name: USTCLUG Mirror help
+    url: https://github.com/ustclug/mirrorhelp/issues/new
+    about: 镜像站帮助反馈 / Mirror help bug report

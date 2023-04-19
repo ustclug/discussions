@@ -1,0 +1,15 @@
+name: 故障反馈 / Bug report
+description: 请详细描述您的问题 / Please describe your problem in details.
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请在此处详细描述您的问题 / Please describe your problem in details here.
+  - type: textarea
+    id: feature
+    attributes:
+      label: 问题描述 / Bug description
+    validations:
+      required: true

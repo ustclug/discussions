@@ -1,0 +1,15 @@
+name: 功能请求 / Feature request
+description: 请在此处描述需要的功能 / Please describe your feature request.
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请在此处描述需要的功能 / Please describe your feature request
+  - type: textarea
+    id: feature
+    attributes:
+      label: 功能描述 / Feature description
+    validations:
+      required: true
